@@ -3,3 +3,4 @@ Grupo: Maximiliano Guaymas, Facundo Mamani, Juan Cruz Torres, Javier Ochoa, Sant
 grupo : Santiago portal 
 Ochoa javier
 Cruz Torres Exequiel
+Ultimo cambio del archivo README
